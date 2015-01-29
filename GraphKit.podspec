@@ -1,7 +1,6 @@
 
 Pod::Spec.new do |s|
   s.name         = "GraphKit"
-  s.version      = "1.1.0"
   s.summary      = "A lightweight library of animated charts for iOS."
   s.homepage     = "https://github.com/michalkonturek/GraphKit"
   s.license      = 'MIT'

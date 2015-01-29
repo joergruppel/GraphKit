@@ -1,5 +1,7 @@
 # GraphKit
 
+# change readme
+
 [![License MIT](https://img.shields.io/badge/contact-@MichalKonturek-blue.svg?style=flat)](http://twitter.com/michalkonturek)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/michalkonturek/GraphKit/blob/master/LICENSE)
 [![CocoaPods](https://img.shields.io/cocoapods/v/GraphKit.svg?style=flat)](https://github.com/michalkonturek/GraphKit)
@@ -58,7 +60,6 @@ Please see [example][BAR].
 
 @optional
 - (UIColor *)colorForBarAtIndex:(NSInteger)index;
-- (UIColor *)colorForBarBackgroundAtIndex:(NSInteger)index;
 - (CFTimeInterval)animationDurationForBarAtIndex:(NSInteger)index;
 - (NSString *)titleForBarAtIndex:(NSInteger)index;
 ```
